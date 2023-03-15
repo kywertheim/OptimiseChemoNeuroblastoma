@@ -15,6 +15,8 @@ Execution: Running this m file within the MATLAB environment will initiate a det
 
 Configuration: If the user wants to evaluate a different initial composition, they can change the initial percentage of cells that are resistant on line 57. If they want to change the distribution of resistant cells between the eight resistant clones, they can alter the code from line 126 to line 145. If they want to evaluate their own chemotherapy schedule, they can modify the code from line 82 to line 87.
 
+Outputs: The program will generate a plot of the population dynamics automatically.
+
 ==========================================
 
 GA.m.
