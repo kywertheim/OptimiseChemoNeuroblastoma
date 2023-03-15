@@ -24,3 +24,5 @@ Software requirement: MATLAB R2022a.
 Execution: Running this m file within the MATLAB environment will find the optimal chemotherapy schedules for a broad range of initial clonal compositions.
 
 Configuration: If the user wants to consider a different initial percentage of cells that are resistant, they can change the range on line 85. If they want to change the distribution of resistant cells between the eight resistant clones, they can alter the code from line 148 to line 167.
+
+Outputs: The 12 solutions proposed for each initial clonal composition can be improved upon using the fmincon function, which searches the vicinity of each proposed solution.
