@@ -5,11 +5,11 @@ Disclaimer: Matteo Italia wrote the simulation code. I coded the genetic algorit
 
 Licence: GNU General Public License v3.0.
 
-Software requirement: MATLAB R2022a.
-
 ==========================================
 
 Simulation.m.
+
+Software requirement: MATLAB R2022a.
 
 Execution: Running this m file within the MATLAB environment will initiate a deterministic simulation of neuroblastoma's clonal evolution in the presence of vincristine and cyclophosphamide.
 
@@ -18,6 +18,8 @@ Configuration: If the user wants to evaluate a different initial composition, th
 ==========================================
 
 GA.m.
+
+Software requirement: MATLAB R2022a.
 
 Execution: Running this m file within the MATLAB environment will find the optimal chemotherapy schedules for a broad range of initial clonal compositions.
 
